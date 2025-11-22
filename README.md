@@ -57,7 +57,7 @@ Projects
 A script that reads security logs and flags suspicious activity (failed logins, unusual IPs, brute force patterns).
 Skills: Python, regex, log parsing, automation.
 
-Coming soon: full code will be uploaded here.
+[View Project](./log-analyzer)
 
 2️.Port Scanner — Python
 
